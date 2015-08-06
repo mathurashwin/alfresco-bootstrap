@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view:view xmlns:view="http://www.alfresco.org/view/repository/1.0"
+	xmlns:sys="http://www.alfresco.org/model/system/1.0">
+	<cm:folder xmlns:cm="http://www.alfresco.org/model/content/1.0" view:childName="cm:testFolder">
+		<view:properties>
+			<sys:node-uuid>4b11d384-22e8-4dfc-aa43-9384aa3486c3</sys:node-uuid>
+			<cm:name>amathur</cm:name>
+		</view:properties>
+	</cm:folder>
+</view:view>

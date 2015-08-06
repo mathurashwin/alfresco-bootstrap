@@ -1,0 +1,6 @@
+<webscript>
+  <shortname>Create Alfresco users</shortname>
+  <description>Create Alfresco users</description>
+  <url>/bootstrap/create-users</url>
+  <authentication>admin</authentication>
+</webscript>

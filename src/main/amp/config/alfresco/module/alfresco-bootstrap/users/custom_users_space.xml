@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view:view xmlns:view="http://www.alfresco.org/view/repository/1.0">
+	<cm:person xmlns:cm="http://www.alfresco.org/model/content/1.0" xmlns="" 
+	           view:childName="cm:amathur">
+	     <view:acl>
+            <view:ace view:access="ALLOWED">
+                <view:authority>amathur</view:authority>
+                <view:permission>All</view:permission>
+            </view:ace>
+        </view:acl>
+        <view:properties>
+		    <cm:userName>amathur</cm:userName>
+		    <cm:firstName>First Name</cm:firstName>
+		    <cm:lastName>Last Name</cm:lastName>
+		    <cm:presenceUsername></cm:presenceUsername>
+		    <cm:email>email@address.com</cm:email>
+		    <cm:organization></cm:organization>
+		    <cm:homeFolder>workspace://SpacesStore/4b11d384-22e8-4dfc-aa43-9384aa3486c3</cm:homeFolder>
+		    <cm:location></cm:location>
+		    <cm:jobtitle></cm:jobtitle>
+		    <cm:organizationId></cm:organizationId>
+		    <cm:sizeQuota>-1</cm:sizeQuota>
+		    <cm:sizeCurrent>0</cm:sizeCurrent>
+	    </view:properties>
+	</cm:person>
+</view:view>
